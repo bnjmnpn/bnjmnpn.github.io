@@ -16,7 +16,7 @@ Assessing Paul Greengrass's depiction of the Maersk Alabama pirate takeover, *Ca
 While Somali pirates hijacking a US flagged container ship and then subsequently being defeated at the hands of US military may seem slightly less compelling than the hunt for one of the most wanted individuals in history, Greengrass's entry into the genre does an admirable job of keeping up with Kathryn Bigelow's.
 
 <div class="full">
-![Captain Phillips](/images/2014/capt_phillips_2.jpg)
+![Captain Phillips](/images/2013/capt_phillips_2.jpg)
 </div>
 
 Such is no small feat—*Zero Dark Thirty* is a solid film, and was one of 2012's standouts. *Captain Phillips* however, delivers.
