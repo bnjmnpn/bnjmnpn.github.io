@@ -384,32 +384,44 @@ h6 small,
   color: #999999;
 }
 h1 {
-  font-size: 2.857142857em;
-  line-height: 1em;
-  margin-top: 1em;
-  margin-bottom: 0.5em;
+  margin: 0;
+  font-size: 1.5714285714285714em;
+  line-height: 0.9090909090909091em;
+  margin-bottom: 0.9090909090909091em;
 }
 h2 {
-  font-size: 2em;
-  line-height: 1.428571428em;
-  margin-top: 1.42857143em;
-  margin-bottom: 0.71428571em;
-}
-h3 {
-  font-size: 1.428571429em;
+  margin: 0;
+  font-size: 1.4285714285714286em;
   line-height: 1em;
-  margin-top: 1em;
   margin-bottom: 1em;
 }
-h4 {
-  font-size: 1em;
-  line-height: 1.428571429em;
-  margin-top: 1.42857143em;
-  margin-bottom: 1.42857143em;
+h3 {
+  margin: 0;
+  font-size: 1.2857142857142858em;
+  line-height: 1.1111111111111112em;
+  margin-bottom: 1.1111111111111112em;
 }
-p, ul, ol, pre, table, blockquote {
-  margin-top: 1.42857143em;
-  margin-bottom: 1.42857143em;
+h4 {
+  margin: 0;
+  font-size: 1.1428571428571428em;
+  line-height: 1.25em;
+  margin-bottom: 1.25em;
+}
+p, ul, blockquote, pre, td, th, label {
+  margin: 0;
+  font-size: 1em;
+  line-height: 1.4285714285714286em;
+  margin-bottom: 1.4285714285714286em;
+}
+p.small {
+  margin: 0;
+  font-size: 0.8571428571428571em;
+  line-height: 1.6666666666666667em;
+  margin-bottom: 1.6666666666666667em;
+}
+table {
+  border-collapse: collapse;
+  margin-bottom: 1.4285714285714286em;
 }
 .page-header {
   padding-bottom: 9px;
