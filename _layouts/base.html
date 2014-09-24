@@ -55,17 +55,7 @@
 
 <footer class="site-footer">
     <div class="container">
-        &copy; {{ site.time | date: "%Y" }}
-
-        <nav>
-            <a href="{{ site.inc.url }}">{{ site.inc.company }}</a>
-        </nav>
-
-        <nav class="social">
-            <a href="/feed.xml" title="RSS Feed">
-                <i class="icon icon-rss black"></i>
-            </a>
-        </nav>
+        <p>&copy; {{ site.time | date: "%Y" }} <a href="{{ site.inc.url }}">{{ site.inc.company }}</a></p>
         <p>All names, trademarks, and images are copyright their respective owners.</p>
         <p>Powered by GitHub Pages and Jekyll.</p>
     </div>
