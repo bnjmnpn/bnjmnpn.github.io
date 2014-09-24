@@ -20,4 +20,6 @@ As much as I might enjoy it then, it thus has to begin the race from the positio
 
 It boils down to this: though the new full–length trailer contains no shortage of visual effects spectacle (and actually, some of the imagery looked imaginative in all the ways sci-fi should), *Jupiter Ascending* can't expect to coast to an easy box–office victory. If there's anything the catastrophes *John Carter* and *Cowboys & Aliens* have taught us, it's that spectacle and moderately well–liked actors can only take a movie so far.
 
-<p><iframe width="624" height="295" src="//www.youtube.com/embed/fOvITFK98gg" frameborder="0" allowfullscreen></iframe></p>
+<div class="full">
+<iframe width="624" height="295" src="//www.youtube.com/embed/fOvITFK98gg" frameborder="0" allowfullscreen></iframe>
+</div>
