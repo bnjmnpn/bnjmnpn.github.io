@@ -1,20 +1,16 @@
 inc:
-  title:        "Nerds"
-  subtitle:     "Tech posts from the LUZ team"
-  cover_image:  blog-cover.jpg
+  title:        "Benjamin Pan"
+  subtitle:     "Opinions and reviews"
+  cover_image:  blog-cover.png
   logo:         logo.png
 
   # Company information
-  company:      LUZ
-  url:          http://luz.vc/
-  facebook:     luzplanilhas
-  twitter:      luzplanilhas
+  company:      Benjamin Pan
+  url:          http://benjaminpan.com
+  facebook:     benjaminlpan
+  twitter:      bnjmnpn
   gplus:        ''
-  about_link:   http://luz.vc/sobre-a-luz/
-
-  # Product Information
-  product_link: http://luz.vc/
-  tagline:      "LUZ Planilhas"
+  about_link:   http://benjaminpan.com/me
 
   # Comments
   disqus:
@@ -40,7 +36,7 @@ inc:
 
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://nerds.luz.vc
+url:         http://bnjmnpn.github.io
 source:      .
 destination: ./_site
 plugins:     ./_plugins
