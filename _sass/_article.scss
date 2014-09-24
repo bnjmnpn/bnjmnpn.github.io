@@ -64,14 +64,6 @@ article {
         }
 
     }
-
-    p {
-        font-size:1em;
-        line-height:1.5;
-        color:$text;
-        font-weight:400;
-        margin:0 0 1.5em;
-    }
     
     
     ol, ul {
@@ -99,32 +91,6 @@ article {
             color:$accent;
             font-weight:600;
         }
-    }
-
-    h1 {
-        font-weight:600;
-        font-size:2.1em;
-        margin:0.5em 0 1em;
-    }
-
-    h2 {
-        font-size:1.5em;
-        margin:0.5em 0 1em;
-        font-weight:600;
-    }
-
-    h3 {
-        font-size:1.3em;
-        font-weight:600;
-    }
-
-    h4 {
-        font-size:1.2em;
-        font-weight:600;
-    }
-
-    hr {
-        margin:3em 0;
     }
 
     .meta {
