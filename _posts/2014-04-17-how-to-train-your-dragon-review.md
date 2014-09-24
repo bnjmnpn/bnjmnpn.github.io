@@ -17,7 +17,9 @@ Not four months later, Dreamworks's *How to Train Your Dragon* hit 3D screens. I
 
 With far less technological wizardry than James Cameron (and far less money), Dreamworks put together something with far more visceral emotion and cinematic impact. Jake wishes his first time flying mounted on a creature was as good as Hiccup's...
 
-<p><iframe width="624" height="351" src="//www.youtube.com/embed/LECmyZB-cgM" frameborder="0" allowfullscreen></iframe></p>
+<div class="full">
+<iframe width="624" height="351" src="//www.youtube.com/embed/LECmyZB-cgM" frameborder="0" allowfullscreen></iframe>
+</div>
 
 The "Test Flight" sequence encapsulates how *How to Train Your Dragon* out Avatars *Avatar*. The camera direction as Toothless soars through the sky, grazes the ocean, and rockets around and through the pillars of rock—accompanied by John Powell's triumphant score—is the cinematic spectacle so many scenes in *Avatar* wanted to be.
 
