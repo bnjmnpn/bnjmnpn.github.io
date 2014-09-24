@@ -383,9 +383,55 @@ h6 small,
   font-weight: normal;
   color: #999999;
 }
-h1 { font-size:2.11538em; padding:1.44323em 0; }
-h2 { font-size:1.61538em; padding:1.30958em 0; }
-h3 { font-size:1.30769em; padding:1.2868em 0; }
+h1 {
+  font-size: 1.928571429em;
+  line-height: 1.481481482em;
+  margin-top: 1.48148148em;
+  margin-bottom: 0.74074074em;
+}
+h2 {
+  font-size: 1.571428571em;
+  line-height: 1.818181818em;
+  margin-top: 1.81818182em;
+  margin-bottom: 0.90909091em;
+}
+h3 {
+  font-size: 1.285714286em;
+  line-height: 1.111111111em;
+  margin-top: 1.11111111em;
+  margin-bottom: 1.11111111em;
+}
+h4 {
+  font-size: 1em;
+  line-height: 1.428571429em;
+  margin-top: 1.42857143em;
+  margin-bottom: 1.42857143em;
+}
+p, ul, ol, pre, table, blockquote {
+  margin-top: 1.42857143em;
+  margin-bottom: 1.42857143em;
+}
+
+/* Sanitation */
+hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+b, strong, em, small, code {
+  line-height: 1;
+}
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub {
+  top: 0.4em;
+}
 .page-header {
   padding-bottom: 9px;
   margin: 40px 0 20px;
