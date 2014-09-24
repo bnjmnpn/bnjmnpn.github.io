@@ -13,7 +13,7 @@ author:
 
 How does one review something like the eight film Harry Potter series? Certainly not with ease. But now with the benefit of a fantastic journey re-watching the entire saga (thank you Cineplex!) a sober assessment of the entire series just might be in order.
 
-####Harry Potter and the Philosopher’s Stone
+###Harry Potter and the Philosopher’s Stone
 
 Genesis. While I hope this was not anyone’s first glimpse at the Harry Potter universe—the books do exist of course—it nevertheless marks the beginning of our journey through the movies. How then, can the movie not hold a special place in your heart?
 
@@ -27,7 +27,7 @@ Sure, Daniel Radcliffe, Rupert Grint, Emma Watson, and many of the actors are in
 
 *3.5/5*
 
-####Harry Potter and the Chamber of Secrets
+###Harry Potter and the Chamber of Secrets
 
 Chris Columbus returns to direct this chapter, and thus it shouldn’t be surprising that it retains the same style and feel as its predecessor. And yet I must say that in doing so, it lacks any real improvement over the first.
 
@@ -39,7 +39,7 @@ My criticisms of the first apply here too, but here without the benefit of it be
 
 *3/5*
 
-####Harry Potter and the Prisoner of Azkaban
+###Harry Potter and the Prisoner of Azkaban
 
 Oh Azkaban, how I wanted to love you. With the third, Cuarón redesigns and reimagines the Harry Potter universe—symbolized better by nothing but the changes in the castle itself. It’s a darker, more gritty style that trades the overtones of a children’s movie for a mature depiction of the world.
 
@@ -61,7 +61,7 @@ I would also be remiss not to comment on Michael Gambon’s portrayal of Dumbled
 
 *3/5*
 
-####Harry Potter and the Goblet of Fire
+###Harry Potter and the Goblet of Fire
 
 As the old cliché goes, the plot thickens. Quite literally, in fact, if one simply considers the drastic and sudden increase in the length of the the book! This of course undoubtedly was a challenge, but newcomer Mike Newell did a respectable job of condensing the film down to a workable film length while staying true to the source material.
 
@@ -77,7 +77,7 @@ The struggle for the franchise so far however has been to deliver something trul
 
 *4/5*
 
-####Harry Potter and the Order of the Phoenix
+###Harry Potter and the Order of the Phoenix
 
 This fifth movie debuts the fourth and final director of the series, David Yates. He could not have picked a more difficult Harry Potter film to make his debut. For here at the longest book of the series, with a relatively dense plot paradoxically containing few defining elements until its very final chapters, the film shows cracks under the weight of this burden.
 
@@ -93,7 +93,7 @@ What could possibly have been done to make the film work better? Truth be told, 
 
 *3.5/5*
 
-####Harry Potter and the Half-Blood Prince
+###Harry Potter and the Half-Blood Prince
 
 Finally at the second-to-last book, the movies and Yates helming their production come into their own. Solid performances from key actors, including Gambon as Dumbledore, were incredibly enjoyable to watch and most welcome.
 
@@ -107,7 +107,7 @@ One particularly regrettable choice of the film however, is the removal of so mu
 
 *4.5/5*
 
-####Harry Potter and the Deathly Hallows Part 1
+###Harry Potter and the Deathly Hallows Part 1
 
 The beginning of the end. And what a beginning! This is perhaps the film with one of the least overt magic—during several segments, you’d be forgiven for forgetting this was even a Harry Potter movie. This is also perhaps the film with the lowest amount of screen time for auxiliary characters—the brunt of the film focuses on the journey of our trio alone, and in one memorable chapter only Harry and Hermione. Yet as this is the film where the three truly first entire the “Special World” or the “Unknown” in the classical Hero’s Journey, this focus is fitting.
 
@@ -129,7 +129,7 @@ Visually and stylistically the film is a treat, with stunning vistas of the trav
 
 *5/5*
 
-####Harry Potter and the Deathly Hallows Part 2
+###Harry Potter and the Deathly Hallows Part 2
 
 And with all that, this is the end. The end of an incredible saga, the incredible and fantastical tale of Harry Potter and his friends.
 
