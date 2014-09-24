@@ -384,44 +384,32 @@ h6 small,
   color: #999999;
 }
 h1 {
-  margin: 0;
-  font-size: 1.5714285714285714em;
-  line-height: 0.9090909090909091em;
-  margin-bottom: 0.9090909090909091em;
+  font-size: 1.928571429em;
+  line-height: 1.481481482em;
+  margin-top: 1.48148148em;
+  margin-bottom: 0.74074074em;
 }
 h2 {
-  margin: 0;
-  font-size: 1.4285714285714286em;
-  line-height: 1em;
-  margin-bottom: 1em;
+  font-size: 1.571428571em;
+  line-height: 1.818181818em;
+  margin-top: 1.81818182em;
+  margin-bottom: 0.90909091em;
 }
 h3 {
-  margin: 0;
-  font-size: 1.2857142857142858em;
-  line-height: 1.1111111111111112em;
-  margin-bottom: 1.1111111111111112em;
+  font-size: 1.285714286em;
+  line-height: 1.111111111em;
+  margin-top: 1.11111111em;
+  margin-bottom: 1.11111111em;
 }
 h4 {
-  margin: 0;
-  font-size: 1.1428571428571428em;
-  line-height: 1.25em;
-  margin-bottom: 1.25em;
-}
-p, ul, blockquote, pre, td, th, label {
-  margin: 0;
   font-size: 1em;
-  line-height: 1.4285714285714286em;
-  margin-bottom: 1.4285714285714286em;
+  line-height: 1.428571429em;
+  margin-top: 1.42857143em;
+  margin-bottom: 1.42857143em;
 }
-p.small {
-  margin: 0;
-  font-size: 0.8571428571428571em;
-  line-height: 1.6666666666666667em;
-  margin-bottom: 1.6666666666666667em;
-}
-table {
-  border-collapse: collapse;
-  margin-bottom: 1.4285714285714286em;
+p, ul, ol, pre, table, blockquote {
+  margin-top: 1.42857143em;
+  margin-bottom: 1.42857143em;
 }
 .page-header {
   padding-bottom: 9px;
