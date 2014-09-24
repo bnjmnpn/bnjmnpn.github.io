@@ -15,11 +15,11 @@ The latter half of 2013 in cinema was marked by a torrent of unequivocally excel
 
 ##Elsa's Story
 
+Much credit must be given to the decision to craft Elsa not as your run–of–the–mill evil sorceress, but as a complex character with her own inner self as the primary antagonist. What could've been a flat tale of the good against the evil instead gave us a remarkable canvas for character development, something wholly but pleasantly unexpected.
+
 <div class="full">
 ![Elsa](/images/2014/elsa.png)
 </div>
-
-Much credit must be given to the decision to craft Elsa not as your run–of–the–mill evil sorceress, but as a complex character with her own inner self as the primary antagonist. What could've been a flat tale of the good against the evil instead gave us a remarkable canvas for character development, something wholly but pleasantly unexpected.
 
 It would be unfair to say that the film completely squanders the opportunity Elsa provides for a deep and multifaceted story. Indeed the design of Elsa in this manner—bearing in mind that this after all is a children's film—ought to be enough to elevate *Frozen* into the pantheon of animation classics.
 
