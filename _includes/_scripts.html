@@ -26,3 +26,15 @@
 {% if site.inc.analytics.google %}
   {% include _google-analytics.html %}
 {% endif %}
+
+<script src="//cdn.jsdelivr.net/fluidvids/2.1.0/fluidvids.min.js"></script>
+<script>
+  Fluidvids.init({
+    selector: 'iframe',
+    players: ['www.youtube.com', 'player.vimeo.com']
+  });
+</script>
+
+<script>
+  baseline.init('img', '20');
+</script>
