@@ -380,9 +380,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
-  line-height: 1.1;
 }
 h1 small,
 h2 small,
@@ -397,58 +395,35 @@ h6 small,
 .h5 small,
 .h6 small {
   font-weight: normal;
-  line-height: 1;
   color: #999999;
 }
-h1,
-h2,
+h1 {
+  font-size: 1.928571429em;
+  line-height: 1.481481482em;
+  margin-top: 1.48148148em;
+  margin-bottom: 0.74074074em;
+}
+h2 {
+  font-size: 1.571428571em;
+  line-height: 1.818181818em;
+  margin-top: 1.81818182em;
+  margin-bottom: 0.90909091em;
+}
 h3 {
-  margin-top: 20px;
-  margin-bottom: 10px;
+  font-size: 1.285714286em;
+  line-height: 1.111111111em;
+  margin-top: 1.11111111em;
+  margin-bottom: 1.11111111em;
 }
-h4,
-h5,
-h6 {
-  margin-top: 10px;
-  margin-bottom: 10px;
+h4 {
+  font-size: 1em;
+  line-height: 1.428571429em;
+  margin-top: 1.42857143em;
+  margin-bottom: 1.42857143em;
 }
-h1,
-.h1 {
-  font-size: 36px;
-}
-h2,
-.h2 {
-  font-size: 30px;
-}
-h3,
-.h3 {
-  font-size: 24px;
-}
-h4,
-.h4 {
-  font-size: 18px;
-}
-h5,
-.h5 {
-  font-size: 14px;
-}
-h6,
-.h6 {
-  font-size: 12px;
-}
-h1 small,
-.h1 small {
-  font-size: 24px;
-}
-h2 small,
-.h2 small {
-  font-size: 18px;
-}
-h3 small,
-.h3 small,
-h4 small,
-.h4 small {
-  font-size: 14px;
+p, ul, ol, pre, table, blockquote {
+  margin-top: 1.42857143em;
+  margin-bottom: 1.42857143em;
 }
 .page-header {
   padding-bottom: 9px;
