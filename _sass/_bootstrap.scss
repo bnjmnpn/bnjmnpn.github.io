@@ -29,19 +29,12 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
-body {
-  margin: 0;
-}
 a:focus {
   outline: thin dotted;
 }
 a:active,
 a:hover {
   outline: 0;
-}
-h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
 }
 abbr[title] {
   border-bottom: 1px dotted;
@@ -174,13 +167,6 @@ table {
 html {
   font-size: 62.5%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-}
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.428571429;
-  color: #333333;
-  background-color: #ffffff;
 }
 input,
 button,
@@ -397,34 +383,9 @@ h6 small,
   font-weight: normal;
   color: #999999;
 }
-h1 {
-  font-size: 1.928571429em;
-  line-height: 1.481481482em;
-  margin-top: 1.48148148em;
-  margin-bottom: 0.74074074em;
-}
-h2 {
-  font-size: 1.571428571em;
-  line-height: 1.818181818em;
-  margin-top: 1.81818182em;
-  margin-bottom: 0.90909091em;
-}
-h3 {
-  font-size: 1.285714286em;
-  line-height: 1.111111111em;
-  margin-top: 1.11111111em;
-  margin-bottom: 1.11111111em;
-}
-h4 {
-  font-size: 1em;
-  line-height: 1.428571429em;
-  margin-top: 1.42857143em;
-  margin-bottom: 1.42857143em;
-}
-p, ul, ol, pre, table, blockquote {
-  margin-top: 1.42857143em;
-  margin-bottom: 1.42857143em;
-}
+h1 { font-size:2.11538em; padding:1.44323em 0; }
+h2 { font-size:1.61538em; padding:1.30958em 0; }
+h3 { font-size:1.30769em; padding:1.2868em 0; }
 .page-header {
   padding-bottom: 9px;
   margin: 40px 0 20px;
