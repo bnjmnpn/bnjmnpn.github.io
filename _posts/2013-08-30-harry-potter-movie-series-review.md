@@ -13,10 +13,6 @@ author:
 
 How does one review something like the eight film Harry Potter series? Certainly not with ease. But now with the benefit of a fantastic journey re-watching the entire saga (thank you Cineplex!) a sober assessment of the entire series just might be in order.
 
-<div class="full">
-![image-cover](/images/2013/harry-potter-computer-deathly-hallows-photo_092514.jpg)
-</div>
-
 ####Harry Potter and the Philosopher’s Stone
 
 Genesis. While I hope this was not anyone’s first glimpse at the Harry Potter universe—the books do exist of course—it nevertheless marks the beginning of our journey through the movies. How then, can the movie not hold a special place in your heart?
