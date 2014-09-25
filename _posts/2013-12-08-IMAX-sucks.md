@@ -33,7 +33,7 @@ Digital IMAX's opening introduction claims it to be "The Ultimate Movie Experien
 
 Its newfound adaptability and flexibility---through its compromise in what sort of screen and room still qualifies as an "IMAX" experience---has allowed operators to retrofit their traditional theatres. Some have done a good job (Cineplex's Empress Walk is acceptable) while others have crammed the larger and closer screen in rooms that are simply not spacious enough.
 
-To be clear, Scotiabank IMAX is thankfully one of the very few remaining "legitimate" IMAX screens remaining. Yet this accentuates the already worse experience of the Digital IMAX system, especially the "remastering process" done on non-IMAX filmed shots and lack of projection resolution.
+To be clear, Scotiabank IMAX is thankfully one of the very few remaining "legitimate" IMAX *screens* remaining. Yet this accentuates the already worse experience of the Digital IMAX system, especially the "remastering process" done on non-IMAX filmed shots and lack of projection resolution.
 
 ![IMAX retrofit](/images/2013/retrofit.jpg)
 
