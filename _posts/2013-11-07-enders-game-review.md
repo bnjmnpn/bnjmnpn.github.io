@@ -11,9 +11,9 @@ author:
   name: Benjamin Pan
 ---
 
-###*Spoilers Follow*
-
 > "The son will not bear the punishment for the father’s iniquity..." —Ezekeil, 18:20
+
+####*Spoilers Follow*
 
 I have yet to read Orson Scott Card's *Ender's Game*, nor the subsequent books in its universe. Considering the place in science--fiction literature these books hold, it's not surprising to have a certain level of expectation for the film adaptation.
 
