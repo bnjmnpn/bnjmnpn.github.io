@@ -39,7 +39,7 @@ IMAX designed it as such in a bid to emulate the former big--screen glory of its
 
 Interestingly from a business perspective, one would think that operators like Cineplex would be incentivized to retrofit their better theatre rooms for their own enhanced formats as opposed to an IMAX theatre, thus saving on what must be substantial revenue sharing costs while still charging a premium over regular tickets. From this perspective, IMAX's greatest asset is but its brand recognition.
 
-{<6>}![Dolby Atmos](/images/2013/Dolby_Atmos.jpg)
+![Dolby Atmos](/images/2013/Dolby_Atmos.jpg)
 
 When I bought an IMAX instead of an UltraAVX ticket though, I was also sacrificing Dolby's new [Atmos](http://www.dolby.com/us/en/consumer/technology/movie/dolby-atmos.html) platform in favour of IMAX's proprietary 5.1 setup.
 
