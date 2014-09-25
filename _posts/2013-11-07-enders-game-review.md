@@ -1,11 +1,11 @@
 ---
 layout: post
 
-title: Cloudy With a Chance of Meatballs 2
+title: Ender's Game
 cover_image: 2013/stills_seq-00086406.jpg
 tags: [review, movies, sci-fi]
 
-excerpt: "Watching *Cloudy With a Chance of Meatballs 2*, one really appreciates the absolute magic that Pixar weaves into so many of its films that evidently others cannot."
+excerpt: "I have yet to read Orson Scott Card's *Ender's Game*, nor the subsequent books in its universe. Considering the place in science--fiction literature these books hold, it's not surprising to have a certain level of expectation for the film adaptation."
 
 author:
   name: Benjamin Pan
