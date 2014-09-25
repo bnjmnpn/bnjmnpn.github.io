@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: IMAX Sucks
+title: Fake IMAX Sucks
 cover_image: 2013/imax-yalta-13.jpg
 tags: [review, movies, technology]
 
