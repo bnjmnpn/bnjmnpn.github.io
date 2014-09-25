@@ -25,7 +25,7 @@ On that last criterion, I'm not sure it actually does.
 
 I will not include a spoiler alert, because it's arguably no spoiler at all to say that war between ape and man-kind breaks out by the end of the film. Along with the deliberate parallel construction of both characters and character motivations between the two groups, the nicely packaged message the film contains clearly is of the folly of war and how inevitable our flaws make it be. 
 
-It's a brilliant message on its own, one whose timing [could not be more apt](http://www.reuters.com/article/2014/07/17/us-palestinians-israel-idUSKBN0FI04420140717"target="_blank). As it is executed in the film though, the end result is the impression that in the pursuit of including a impactful message, the film itself paradoxically suffers.
+It's a brilliant message on its own, one whose timing [could not be more apt](http://www.reuters.com/article/2014/07/17/us-palestinians-israel-idUSKBN0FI04420140717){:target="blank"}. As it is executed in the film though, the end result is the impression that in the pursuit of including a impactful message, the film itself paradoxically suffers.
 
 There is never any pretension, even right at *t*=0, that peace would be achievable. While this *adds* an element of tension to the film—we are transfixed by the unfolding story much in the way we may be watching two runaway trains on the same track barreling towards each other—the story begins to drag when this one element begins to wear thin.
 
