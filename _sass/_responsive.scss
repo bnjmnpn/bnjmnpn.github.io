@@ -18,10 +18,11 @@ h2 {
     
     article {
         padding-top:40px;
+        padding-bottom:20px;
         
         .container > header, .container > section, .container > footer {
             padding:0;
-            margin:1.5em 10%;
+            margin:0 8em;
         }
         
         .container > footer {
