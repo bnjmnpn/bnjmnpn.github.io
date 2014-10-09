@@ -13,7 +13,7 @@ author:
 
 The release of a Michael Bay *Transformers* installment, delivering computer generated explosions to theatre goers across the world, is always a cue for critics and self-proclaimed critics alike to bemoan the lack of real meaning in Hollywood's summer blockbusters. *Dawn of the Planet of the Apes*, Matt Reeves's entry in a series which is fertile ground for meaningful metaphor, aspires to meet that challenge.
 
-To be sure, the film is a surprisingly beautiful one. Weta Digital's work animating the apes around the motion capture framework of Andy Serkis and his fellow cast-members's performances is a true triumph in computer generated imagery. The direction and cinematography is equally well done, as numerous sequences throughout the movie do an expert job of visually painting the story on screen. Koba's ploy to distract human guards for instance is simply beautiful in its horror.
+To be sure, the film is a surprisingly beautiful one. Weta Digital's work animating the apes around the motion capture framework of Andy Serkis and his fellow cast-members's performances is a true triumph in computer generated imagery. The direction and cinematography is equally well done, as numerous sequences throughout the movie do an expert job of visually painting the story on screen. Koba's ploy to distract human guards for instance is simply beautiful in its sheer horror.
 
 <div class="full">
 ![© 2013 - Twentieth Century Fox Film Corporation.](/images/2014/MV5BMjM5NDUzODQzN15BMl5BanBnXkFtZTgwMzE2NTg1MTE--_V1__SX1857_SY937_.jpg)
