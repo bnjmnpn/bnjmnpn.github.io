@@ -7,7 +7,7 @@ author:
   name: Benjamin Pan
 ---
 
-As my Twitter bio says, I am studying for an Honours Bachelors of Arts in economics, political science, and statistics at the University of Toronto.
+As my Twitter bio says, I am studying for an Honours Bachelors of Arts in economics and political science at the University of Toronto.
 
 Naturally then I live in Toronto, Canada—albeit somewhat reluctantly owing to how virtually no place on earth can compare with my hometown of Vancouver, Canada. Yes, this is a pretty unfair statement, but as the aphorism goes, "There's no place like home."
 
