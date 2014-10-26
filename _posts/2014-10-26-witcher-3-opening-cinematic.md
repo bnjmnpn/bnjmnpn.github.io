@@ -14,4 +14,4 @@ It's not often that a video game cinematic of any kind, cutscene or trailer, mea
 
 <div class="full"><iframe width="560" height="315" src="//www.youtube.com/embed/YoEtyCdmgO0" frameborder="0" allowfullscreen></iframe></div>
 
-The Witcher 3's opening cinematic shows how it's done: engaging and dynamic camera moves and placement, composition that actually had thought put in, fitting music, and smart editing.
+The Witcher 3's opening cinematic shows how it's done: engaging and dynamic camera movement and placement, composition that actually shows thought put in, fitting music, and smart editing.
