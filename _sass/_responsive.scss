@@ -1,5 +1,5 @@
 @media (max-width: 1000px) {
-    
+
     .tagline span {
         display:none;
     }
@@ -11,47 +11,47 @@ h2 {
 }
 
 @media (max-width: 720px) {
-    
+
     article {
         padding-top:40px;
-        
+
         .container > header, .container > section, .container > footer {
             margin:0em 10%;
         }
-        
+
         .container > footer {
             padding:2em 0;
         }
-        
+
         .full, pre {
             margin:1em 0;
         }
-        
+
         pre {
             padding:1em;
         }
-        
+
         blockquote {
             margin:1em 0;
-            
+
             p {
                 font-size:1em;
             }
         }
-        
+
         h1 {
             font-size:1.8em;
         }
-        
+
         h2 {
             font-size:1.4em;
         }
-        
+
         p {
             font-size:0.9em;
         }
     }
-    
+
     .blog-cover {
         height:200px;
 
@@ -59,11 +59,11 @@ h2 {
             height:200px;
             width:auto;
         }
-        
+
         section {
             padding:60px 0 0;
             text-align:center;
-            
+
             a {
                 margin:0.5em;
             }
@@ -71,48 +71,52 @@ h2 {
         h1 {
             font-size:1.5em;
         }
-        
+
         h3 {
             font-size:1em;
         }
     }
-    
+
     .site-nav .tagline span {
         display:none;
     }
-    
+
     .site-nav {
         #navigation {
             a {
                 display:none;
             }
-            
+
             .brand {
                 display:inline-block;
-            } 
+            }
         }
     }
-    
+
     .site-footer {
         margin-top:0;
         padding:10px 10%;
         text-align:center;
-        
+
         nav {
             display:block;
             float:none !important;
             padding:1em;
         }
     }
-    
+
+    .container {
+        padding-bottom: 22px;
+    }
+
     .index {
         padding:0;
         margin:0 10%;
-        
+
         > div {
             margin:0;
         }
-        
+
         img {
             display:none;
         }
