@@ -25,3 +25,9 @@ $accent: #2077b2;
 @import "icons";
 @import "syntax";
 @import "responsive";
+@import url(http://weloveiconfonts.com/api/?family=zocial);
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
