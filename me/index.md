@@ -20,6 +20,7 @@ Biggest interest: I really really enjoy movies. But who doesn't?!
 Key technology and gadgetry (at least, the ones I like): OSX/Windows on a 2014 13' Macbook Air, Apple Magic Mouse, Logitech MX518 mouse, HE-400 planar magnetic headphones (<3) powered by a Yulong U100 DAC/amp, JBL Creature III speakers, iPhone 5s, and Westone UM2 IEMs.
 
 Now for the obligatory social media links: I'm on
-[Twitter](https://twitter.com/bnjmnpn), [Facebook](https://facebook.com/benjaminlpan), [LinkedIn](http://ca.linkedin.com/in/bnpan/), [Google+](https://google.com/+BenjaminPan_nbsp/), [Instagram](http://instagram.com/bnpn), [IMDb](http://www.imdb.com/user/ur50211149/), and [Steam](http://steamcommunity.com/id/thesausages/).
+[Twitter](https://twitter.com/bnjmnpn), [Facebook](https://facebook.com/benjaminlpan), [LinkedIn](http://ca.linkedin.com/in/bnpan/), [Google+](https://google.com/+BenjaminPan_nbsp/), [Instagram](http://instagram.com/bnpn),
+[Flickr](https://www.flickr.com/photos/131540462@N07/), [IMDb](http://www.imdb.com/user/ur50211149/), and [Steam](http://steamcommunity.com/id/thesausages/).
 
 [![Vista](http://distilleryimage5.ak.instagram.com/1177850ad97a11e29f3f22000a1f978e_7.jpg)](http://instagram.com/p/axa-jkrwo5/)
