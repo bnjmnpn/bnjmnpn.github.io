@@ -13,7 +13,7 @@ author:
 
 When James Cameron's *Avatar* debuted in December 2009, it was hailed as a visual masterpiece. No doubt with how far 3D has come today, we easily forget that what we were treated to represented groundbreaking advances in technology. As a film though, as a piece of narrative storytelling? My one word review was, "Meh."
 
-Not four months later, Dreamworks's *How to Train Your Dragon* hit 3D screens. I adore computer animation as a genre, but it's difficult to separate that from simply my love of Disney/Pixar. Dreamworks on the other hand, for the longest time, equaled *Shrek* in my mind—a franchise I deeply dislike. So I made what I now know to be the enormous mistake of not seeing it in theatres, and what a mistake that was!
+Not four months later, Dreamworks's *How to Train Your Dragon* hit 3D screens. I adore computer animation as a genre, but it's difficult to separate that from simply my love of Disney/Pixar. Dreamworks on the other hand, for the longest time, equaled *Shrek* in my mind—a franchise I deeply dislike. I thus made what I now know to be the enormous mistake of not seeing it in theatres—what a mistake that was!
 
 With far less technological wizardry than James Cameron (and far less money), Dreamworks put together something with far more visceral emotion and cinematic impact. Jake wishes his first time flying mounted on a creature was as good as Hiccup's...
 
