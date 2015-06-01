@@ -15,7 +15,7 @@ The first entry into the How to Train Your Dragon universe soared effortlessly i
 
 All high praise indeed, and really then, attempting to follow *How to Train Your Dragon* with a sequel that rises even higher would seem to be impossible.
 
-In several key aspects, *How to Train Your Dragon 2* accomplishes this feat. Its technical animation is stunning in detail and sophistication. The scenes of flight, though inevitably lacking somewhat in emotional weight compared to their counterparts in the first film, are visual masterpieces in cinematography and computer generated artistry. The backdrop of lush flora, the precise character and dragon expressions, the fantastic lighting, and lively colour palette are markedly upgraded in this entry to the series.
+In several key aspects, *How to Train Your Dragon 2* accomplishes this feat. Its technical animation is stunning in detail and sophistication. The scenes of flight, though inevitably lacking somewhat in emotional weight compared to their counterparts in the first film, are visual masterpieces in cinematography and computer generated imagery. The backdrop of lush flora, the precise character and dragon expressions, the fantastic lighting, and lively colour palette are markedly upgraded in this entry to the series.
 
 John Powell's *fantastic* score from the first is matched here, though sadly none of the new themes reverberated with me in producing as much wonder as say, [*Test Flight*](https://soundcloud.com/alice-hbd-wonders/test-drive-john-powell) did. Still, motifs both old and new are incorporated with apt timing and enough emotional texture—from deliberately delicate to triumphantly bombast—to carry several scenes throughout the entirety of the film.
 
