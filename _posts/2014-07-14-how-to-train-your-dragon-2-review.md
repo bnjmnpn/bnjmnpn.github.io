@@ -11,7 +11,7 @@ author:
   name: Benjamin Pan
 ---
 
-The first entry into the How to Train Your Dragon universe soared effortlessly into the upper reaches of my chart of favourite films. To this viewer, it was a defining example of what animated cinematic storytelling is—the embrace of the opportunities afforded in executing breathtaking visual sequences, and doing so with such gusto and conviction in conveying visceral emotion. Though it had a simple (and not at all groundbreaking) storyline, I was drawn in by its heart and sincerity. Judging from its box office run, it's not a stretch to say many audiences were as well.
+The first entry into the How to Train Your Dragon universe soared effortlessly into the upper reaches of my chart of favourite films. To this viewer, it was a defining example of what animated cinematic storytelling can be—the embrace of the opportunities afforded in executing breathtaking visual sequences, and doing so with such gusto and conviction in conveying visceral emotion. Though it had a simple (and not at all groundbreaking) storyline, I was drawn in by its heart and sincerity. Judging from its box office run, it's not a stretch to say many audiences were as well.
 
 All high praise indeed, and really then, attempting to follow *How to Train Your Dragon* with a sequel that rises even higher would seem to be impossible.
 
