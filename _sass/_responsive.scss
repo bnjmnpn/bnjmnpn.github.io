@@ -1,3 +1,5 @@
+@media (max-width: 300px) { .tagline span { display: none; }
+
 h2 {
     line-height: 20px;
 }
@@ -70,11 +72,6 @@ h2 {
     }
 
     .site-nav {
-        #navigation {
-            a {
-                display:none;
-            }
-
             .brand {
                 display:inline-block;
             }
