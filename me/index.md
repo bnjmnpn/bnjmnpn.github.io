@@ -23,8 +23,7 @@ Now for the obligatory social media links: I'm on
 [Twitter](https://twitter.com/bnjmnpn), [Facebook](https://facebook.com/benjaminlpan), [LinkedIn](http://ca.linkedin.com/in/bnpan/), [Google+](https://google.com/+BenjaminPan_nbsp/), [Instagram](http://instagram.com/bnpn),
 [Flickr](https://www.flickr.com/photos/131540462@N07/), [IMDb](http://www.imdb.com/user/ur50211149/), and [Steam](http://steamcommunity.com/id/thesausages/).
 
-<p>You can also find me via email:
-
+You can also find me via email:
 <script type="text/javascript">
 /*<![CDATA[*/
 
@@ -36,6 +35,6 @@ for (var i=0; i<emailriddlerarray.length; i++)
 document.write('<a href="mailto:'+encryptedemail_id37+'">me@benjaminpan.com</a>')
 
 /*]]>*/
-</script></p>
+</script>
 
 [![Vista](http://distilleryimage5.ak.instagram.com/1177850ad97a11e29f3f22000a1f978e_7.jpg)](http://instagram.com/p/axa-jkrwo5/)
