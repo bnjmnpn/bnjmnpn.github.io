@@ -2,10 +2,7 @@
 layout: post
 
 title: My LSAC Personal Statement
-keywords:
-- lsac
-- lsat
-- personal
+keywords: [lsac, lsat, personal, statement, law, school, application, admissions, sample, example]
 
 excerpt: "In case it will be helpful to anyone going through the ordeal of applying to Canadian and US law schools, I'm posting my personal statement – one that I'm fortunate to say faired well in the process – to potentially serve as a small source of inspiration."
 
