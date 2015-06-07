@@ -2,7 +2,8 @@
 layout: post
 
 title: Thoughts on the Zimmerman Trial
-keywords: [personal, opinion]
+keywords: [personal, opinion, zimmerman, racism]
+categories: [personal]
 
 excerpt: "In light of today’s surprisingly personal speech from President Obama, the Zimmerman trial is again dominating the mindshare of at least all those who followed the news (as if it had ever left since the “not verdict” guilty)."
 

@@ -3,7 +3,8 @@ layout: post
 
 title: Harry Potter and the Eight Films
 cover_image: 2013/harry-potter-computer-deathly-hallows-photo_092514.jpg
-keywords: [review, movies, harry potter, series, retrospective]
+keywords: [review, movies, harry, potter, series, retrospective]
+categories: [review]
 
 excerpt: "How does one review something like the eight film Harry Potter series? Certainly not with ease. But now with the benefit of a fantastic journey re-watching the entire saga (thank you Cineplex!) a sober assessment of the entire series just might be in order."
 
