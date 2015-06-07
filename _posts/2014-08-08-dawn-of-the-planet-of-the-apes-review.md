@@ -3,7 +3,7 @@ layout: post
 
 title: Message in a Blockbuster
 cover_image: 2014/DOTPOTA-3.jpg
-tags: [review, movies, sci-fi]
+keywords: [review, movies, sci-fi]
 
 excerpt: "The release of a Michael Bay *Transformers* installment, delivering computer generated explosions to theatre goers across the world, is always a cue for critics and self-proclaimed critics alike to bemoan the lack of real meaning in Hollywood's summer blockbusters. *Dawn of the Planet of the Apes*, Matt Reeves's entry in a series which is fertile ground for meaningful metaphor, aspires to meet that challenge."
 
@@ -19,11 +19,11 @@ To be sure, the film is a surprisingly beautiful one. Weta Digital's work animat
 ![© 2013 - Twentieth Century Fox Film Corporation.](/images/2014/MV5BMjM5NDUzODQzN15BMl5BanBnXkFtZTgwMzE2NTg1MTE--_V1__SX1857_SY937_.jpg)
 </div>
 
-Is *Dawn of the Planet of the Apes* then the definitive blockbuster? It appears to check all the requisite boxes, including the one Michael Bay all but pretends doesn't exist—contains depth of message. 
+Is *Dawn of the Planet of the Apes* then the definitive blockbuster? It appears to check all the requisite boxes, including the one Michael Bay all but pretends doesn't exist—contains depth of message.
 
 On that last criterion, I'm not sure it actually does.
 
-I will not include a spoiler alert, because it's arguably no spoiler at all to say that war between ape and man-kind breaks out by the end of the film. Along with the deliberate parallel construction of both characters and character motivations between the two groups, the nicely packaged message the film contains clearly is of the folly of war and how inevitable our flaws make it be. 
+I will not include a spoiler alert, because it's arguably no spoiler at all to say that war between ape and man-kind breaks out by the end of the film. Along with the deliberate parallel construction of both characters and character motivations between the two groups, the nicely packaged message the film contains clearly is of the folly of war and how inevitable our flaws make it be.
 
 It's a brilliant message on its own, one whose timing [could not be more apt](http://www.reuters.com/article/2014/07/17/us-palestinians-israel-idUSKBN0FI04420140717){:target="blank"}. As it is executed in the film though, the end result is the impression that in the pursuit of including a impactful message, the film itself paradoxically suffers.
 

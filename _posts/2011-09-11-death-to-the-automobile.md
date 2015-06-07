@@ -2,7 +2,8 @@
 layout: post
 
 title: Death to the $@&%ing automobile!!!!!!!!!!!!
-tags: [opinion]
+keywords: [environment, automobile]
+categories: [opinion]
 
 excerpt: "I was browsing through some blog posts and comments about the Port Mann Bridge and Highway 1 infrastructure upgrades in Vancouver, and noticed an interesting argument that seemed to be woven into virtually all of them. I am genuinely surprised more people haven’t challenged it."
 

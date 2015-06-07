@@ -16,6 +16,7 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
     {% if page.cover_image %}
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
     <meta property="og:image" content="{{ site.url }}/images/{{ page.cover_image }}"/>
     {% if page.main_image %}
     <meta property="og:image" content="{{ site.url }}/images/{{ page.main_image }}"/>
@@ -25,6 +26,9 @@
     {% if page.excerpt %}
     <meta property="og:description" content="{{ page.excerpt }}"/>
     <meta name="description" content="{{ page.excerpt }}"/>
+    {% endif %}
+    {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}" />
     {% endif %}
     <meta property="og:site_name" content="{{ site.inc.title }}">
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>

@@ -3,7 +3,7 @@ layout: post
 
 title: How to Out Avatar Avatar?
 cover_image: 2014/tumblr_mjj1jqdjF21qi8pxqo1_1280-2.jpg
-tags: [review, movies, animated, dreamworks]
+keywords: [review, movies, animated, dreamworks]
 
 excerpt: When James Cameron's *Avatar* debuted, it was hailed as a visual masterpiece. But as a film, as a piece of narrative storytelling? My one word review was, "Meh." Not four months later, Dreamworks's *How to Train Your Dragon* hit 3D screens...
 

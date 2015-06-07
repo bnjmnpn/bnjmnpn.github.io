@@ -3,7 +3,7 @@ layout: post
 
 title: Captain Phillips
 cover_image: 2013/capt_phillips_3.jpg
-tags: [review, movies]
+keywords: [review, movies]
 
 excerpt: "Assessing Paul Greengrass's depiction of the Maersk Alabama pirate takeover, *Captain Phillips*, is in several ways quite reminiscent of last year's history dramatization *Zero Dark Thirty*."
 

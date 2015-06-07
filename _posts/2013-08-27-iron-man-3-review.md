@@ -2,7 +2,7 @@
 layout: post
 
 title: Eiffel 65 & Iron Man 3
-tags: [review, movies, marvel, sci-fi]
+keywords: [review, movies, marvel, sci-fi]
 
 excerpt: I finally got around to watching *Iron Man 3*. I guess that’s a "first world problem" you face when traveling during the summer—you miss all those blockbusters.
 

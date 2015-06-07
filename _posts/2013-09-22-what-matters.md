@@ -2,7 +2,7 @@
 layout: post
 
 title: What Matters
-tags: [now playing]
+keywords: [now playing]
 
 excerpt: "How I wish this recording were digitally released. Well, perhaps this is motivation for building an analogue/vinyl system some day..."
 
