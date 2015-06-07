@@ -25,11 +25,14 @@ Now for the obligatory social media links: I'm on
 
 You can also find me via email at <script type="text/javascript">
 /*<![CDATA[*/
+
 var emailriddlerarray=[109,101,64,98,101,110,106,97,109,105,110,112,97,110,46,99,111,109]
 var encryptedemail_id37='' //variable to contain encrypted email
 for (var i=0; i<emailriddlerarray.length; i++)
  encryptedemail_id37+=String.fromCharCode(emailriddlerarray[i])
+
 document.write('<a href="mailto:'+encryptedemail_id37+'">me@benjaminpan.com</a>')
+
 /*]]>*/
 </script>.
 
