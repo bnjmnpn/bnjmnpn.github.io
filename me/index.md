@@ -23,14 +23,10 @@ Now for the obligatory social media links: I'm on
 [Twitter](https://twitter.com/bnjmnpn), [Facebook](https://facebook.com/benjaminlpan), [LinkedIn](http://ca.linkedin.com/in/bnpan/), [Google+](https://google.com/+BenjaminPan_nbsp/), [Instagram](http://instagram.com/bnpn),
 [Flickr](https://www.flickr.com/photos/131540462@N07/), [IMDb](http://www.imdb.com/user/ur50211149/), and [Steam](http://steamcommunity.com/id/thesausages/).
 
-You can also find me via email at <script type="text/javascript">
-/*<![CDATA[*/
+You can also find me via email at
 
-/***********************************************
-* Encrypt Email script- Please keep notice intact
-* Tool URL: http://www.dynamicdrive.com/emailriddler/
-* **********************************************/
-<!-- Encrypted version of: me [at] ***********.*** //-->
+<script type="text/javascript">
+/*<![CDATA[*/
 
 var emailriddlerarray=[109,101,64,98,101,110,106,97,109,105,110,112,97,110,46,99,111,109]
 var encryptedemail_id37='' //variable to contain encrypted email
