@@ -2,6 +2,7 @@
 layout: post
 
 title: Thoughts on the Zimmerman Trial
+
 keywords: [personal, opinion, zimmerman, racism]
 categories: [personal]
 

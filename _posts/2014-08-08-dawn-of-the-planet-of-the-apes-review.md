@@ -3,7 +3,9 @@ layout: post
 
 title: Message in a Blockbuster
 cover_image: 2014/DOTPOTA-3.jpg
+
 keywords: [review, movies, sci-fi]
+categories: [review, movies]
 
 excerpt: "The release of a Michael Bay *Transformers* installment, delivering computer generated explosions to theatre goers across the world, is always a cue for critics and self-proclaimed critics alike to bemoan the lack of real meaning in Hollywood's summer blockbusters. *Dawn of the Planet of the Apes*, Matt Reeves's entry in a series which is fertile ground for meaningful metaphor, aspires to meet that challenge."
 

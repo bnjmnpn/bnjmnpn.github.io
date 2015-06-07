@@ -3,7 +3,9 @@ layout: post
 
 title: Fake IMAX Sucks
 cover_image: 2013/imax-yalta-13.jpg
-keywords: [review, movies, technology]
+
+keywords: [review, movies, technology, IMAX, fake]
+categories: [movies]
 
 excerpt: Once upon a time, going to watch an IMAX film at the now defunct Canada Place CN IMAX was an occasion. After viewing *The Hunger Games Catching Fire* at the Toronto Scotiabank Digital IMAX theatre this week however, with a critical eye to picture and audio quality, I had but one saying on my mind—"Oh how the mighty have fallen."
 

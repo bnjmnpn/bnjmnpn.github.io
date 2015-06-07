@@ -3,8 +3,9 @@ layout: post
 
 title: "Mass Effect 3 Extended Cut—A series saved?"
 cover_image: 2012/mass-effect-3-extended-cut-0024.jpg
-keywords: [review, gaming, mass effect, sci-fi, bioware]
-categories: [review]
+
+keywords: [review, gaming, mass effect, sci-fi, bioware, DLC]
+categories: [review, gaming]
 
 excerpt: "It should be abundantly clear to anyone who has paid any attention to the gaming community recently that there is no shortage of dissatisfaction to be found regarding the ending of *Mass Effect 3*, the conclusion to the very well regarded trilogy."
 

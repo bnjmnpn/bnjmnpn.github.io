@@ -2,7 +2,9 @@
 layout: post
 
 title: Here's Why Jupiter Ascending Will Likely Fail
-keywords: [movies, opinion]
+
+keywords: [movies, opinion, jupiter ascending, hollywood, bomb]
+categories: [movies]
 
 excerpt: "Slated for a July 18th release, the multi-hundred million dollar Warner Brothers production *Jupiter Ascending* by all appearances aspires to be a summer blockbuster up there with other revenue generating behemoths. Unless the Wachowskis deliver a film with *Gravity* level word of mouth acclaim however, there's real potential here for a financial flop."
 

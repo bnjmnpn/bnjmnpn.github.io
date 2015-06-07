@@ -3,7 +3,9 @@ layout: post
 
 title: How to Make a Sequel?
 cover_image: 2014/tumblr_n83xjaWKM81qzmmzso1_1280.png
-keywords: [review, movies, animated, dreamworks]
+
+keywords: [review, movies, animated, dreamworks, how to train your dragon, HTTYD]
+categories: [review, movies]
 
 excerpt: "The first entry into the How to Train Your Dragon universe soared effortlessly into the upper reaches of my chart of favourite films. Attempting to follow *How to Train Your Dragon* with a sequel that rises even higher then would seem to be impossible."
 

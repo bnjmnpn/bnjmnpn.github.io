@@ -2,7 +2,9 @@
 layout: post
 
 title: Cloudy With a Chance of Meatballs 2
-keywords: [review, movies, animated, sony]
+
+keywords: [review, movies, animated, sony, cloudy with a chance of meatballs]
+categories: [review, movies]
 
 excerpt: "Watching *Cloudy With a Chance of Meatballs 2*, one really appreciates the absolute magic that Pixar weaves into so many of its films that evidently others cannot."
 

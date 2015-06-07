@@ -2,6 +2,8 @@
 layout: post
 
 title: The Death of Camaraderie
+
+keywords: [high school, university, undergraduate, college, transitions]
 categories: [personal]
 
 excerpt: "I really took it for granted. All throughout high school, it just seemed like such a natural part of everyday student life that I did not pay the slightest attention to it at all."

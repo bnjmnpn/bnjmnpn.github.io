@@ -3,7 +3,9 @@ layout: post
 
 title: Frozen
 cover_image: 2014/Annaandelsafrozen10.png
-keywords: [review, movies, animated, disney]
+
+keywords: [review, movies, animated, disney, frozen, princess, anna, elsa]
+categories: [review, movies]
 
 excerpt: "The latter half of 2013 in cinema was marked by a torrent of unequivocally excellent films. Yet *Frozen*, the Walt Disney Animation Studios film, was perhaps the biggest surprise hit."
 
