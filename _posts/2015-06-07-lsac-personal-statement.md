@@ -12,7 +12,7 @@ author:
   name: Benjamin Pan
 ---
 
-Admissions as a process is never a pleasant or straightforwards one, a reality I found to be particularly acute for law schools. Of the three pillars of any application – GPA, LSAT, and the personal statement – it seemed that the statement was the most ambiguous in terms of what schools were seeking. Yet, as I sat staring at my empty applications in September of 2014, it was also the sole component I still had real control over at that stage in the application cycle. I suppose there's always the fall/winter LSAT rewrite, but I digress.
+Admissions is never a pleasant or straightforwards process, a reality I found to be particularly acute when applying to law school. Of the three pillars of any application – GPA, LSAT, and the personal statement – it seemed that the statement was the most ambiguous in terms of what schools were seeking. Yet, as I sat staring at my empty applications in September of 2014, it was also the sole component I still had real control over at that stage in the application cycle. I suppose there's always the fall/winter LSAT rewrite, but I digress.
 
 In case it will be helpful to anyone going through the ordeal of applying to Canadian and US law schools, I'm posting my personal statement – one that I'm fortunate to say faired well in the process – to potentially serve as a small source of inspiration.
 
